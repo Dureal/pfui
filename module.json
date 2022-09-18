@@ -9,10 +9,9 @@
             "name": "Dureal",
             "email": "dureal@aol.com",
             "url": "https://github.com/Dureal/pfui",
-            "Discord": "Dureal"
+            "flags": {}
         }
     ],
-  "flags": {},
   "version": "9.269.3",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
@@ -45,14 +44,7 @@
       "path": "lang/de.json"
     }
   ],
-  "packs": [],
-  "system": ["pf2e"],
-  "dependencies": [],
-  "socket": false,
   "url": "https://gitlab.com/sasmira/pathfinder-ui",
   "manifest": "https://github.com/Dureal/pfui/blob/main/module.json",
-  "download": "https://github.com/Dureal/pfui/archive/refs/tags/1.0.zip",
-  "protected": false,
-  "coreTranslation": false,
-  "library": false
+  "download": "https://github.com/Dureal/pfui/archive/refs/tags/1.0.zip"
 }
